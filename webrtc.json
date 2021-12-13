@@ -1,0 +1,19 @@
+{
+  "openAPIMode": "mqtt",
+  "openAPIUrl": "openapi.tuyaus.com",
+
+  "clientId": "7kg8xhseateqocqv5r8s",
+  "secret": "21cd5b09adbb412b9e4f185387d11dd9",
+
+  "authMode": "easy",
+
+  "easy": {
+    "uId": "az1628609898737BL9fN"
+  },
+
+  "auth": {
+    "code": ""
+  },
+
+  "deviceId": "ebf6ab28c3567e91591ajk"
+}
